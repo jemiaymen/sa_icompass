@@ -351,11 +351,7 @@ def main():
                             load_from_cache_file=not data_args.overwrite_cache)
 
     train_dataset = datasets["train"]
-    eval_dataset = datasets["validation_matched" if data_args.task_name ==
-                            "mnli" else "validation"]
-    if data_args.task_name is not None or data_args.test_file is not None:
-        test_dataset = datasets["test_matched" if data_args.task_name ==
-                                "mnli" else "test"]
+    eval_dataset = datasets["validation"]
 
     # Log a few random samples from the training set:
     for index in random.sample(range(len(train_dataset)), 3):
