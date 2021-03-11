@@ -3,7 +3,7 @@ ma7leh fiiinou 3al e5er	POS
 bravo slim rya7iiii rajelllll	POS
 ma5yèbb rabb rasèk	NEG
 lay ywari liwled likheb dawla	NEG
-ya 3ich tounsi Ya 7ayawanet kif totlbou 3abd nhar la7ad 8h du matin au moins kif yhez 3likom ne raccrocher pas dans le nez c est impoli t7ebbou tsal7ou wentom makomch metrabbin	NEG
+ya 3ich tounsi ya 7ayawanet kif totlbou 3abd nhar la7ad 8h du matin au moins kif yhez 3likom ne raccrocher pas dans le nez c est impoli t7ebbou tsal7ou wentom makomch metrabbin	NEG
 nheb nthakrek belfilm el moussii llrrassoul	NEG
 a7na m3ak ya si slim ema ba3ed 3lina nafti rahou 0 winou baratli w lmichrgui	POS
 3idek mabrou enti wel 3ayla ya m3alem	POS
@@ -1182,7 +1182,7 @@ sayeb 3lik men siyesa 3andek leclub akber men tounes	NEG
 le le sama7ni ena tounsi w m ymathelnich 7lowa hethi ra2iis letwensa el kol	NEG
 ma8er matkasser rassk m3ahoum hathouma ness jahlin makci m3aya rak thedi 0 education scientifique et morale on ne trouve pas parmis eux les ingenieurs les medecins ou les bien eduques	NEG
 hhhhhhhhhhhhhhh ibi3 fi klam	NEG
-bon courage nchala yetl3ou kol Bnazartia ye5dmou Banzart b sed9 wou mayekdhbouch aaliha et le plus important  ykounou yed wa7da	POS
+bon courage nchala yetl3ou kol bnazartia ye5dmou banzart b sed9 wou mayekdhbouch aaliha et le plus important  ykounou yed wa7da	POS
 chnowa eli 3jebkom fih brabi wahed sarak ma yeswa chey fale7 ken fil klem w il fe3el rabi ijib	POS
 chnia les résultas fi nabel	POS
 ﻿ejam3eyya b 5saret lyoum contre raja2 dhhorna 3la 79i9etna welli ma3anna w in bech nouslou fil afrik sanchez degage wyelzemna attaquant 9wey wya3ref l afrik	NEG
@@ -4748,7 +4748,7 @@ hhhhh chnouwa hal da5la hadhi eda5la hadhi tawa ya3melha fi virage el ca	NEG
 bon ilyouma braveaux chewaya retouche mais lamouciya haute talon wa kima tebta bonne chance et bonne courage	POS
 5sara bech youfa lmousalsel demain	NEG
 chwaya fehom l9atel bel kartouch kleb	NEG
-inhb in9ol ili 3adow il bac wyestanow fi résultats itha ma5thitouch il bac mech nehyet il3alem itnjem ta3mel formation 3l 5ter san3at lidin haya il kol wtehlek barch afa9 ana Hani i5thit il bac w9rit 3 ans whani 9a3da fil dar i3tibar ilwahed ma9ra hata 3am	POS
+inhb in9ol ili 3adow il bac wyestanow fi résultats itha ma5thitouch il bac mech nehyet il3alem itnjem ta3mel formation 3l 5ter san3at lidin haya il kol wtehlek barch afa9 ana hani i5thit il bac w9rit 3 ans whani 9a3da fil dar i3tibar ilwahed ma9ra hata 3am	POS
 ouwahdek yaslouma	POS
 brabi li nes li 9a3din y9olo w y3awedo li hia mrakba brabi sbeeeeeeeee777 lkhiiiiiiiirrrrr	NEG
 rabbi yarhmou	POS
@@ -6486,7 +6486,7 @@ ou ba3d ash fema ma3sadesh tarja3 ll ca illi 5aliitha t3ani	NEG
 allah yarhemhome	POS
 svp slim rya7i far5 chkoun	POS
 rouh neyik	NEG
-Win salle de fête fatma svp	POS
+win salle de fête fatma svp	POS
 rabi yhmik men kol char	POS
 si slouma khouya mabrouk aligna	POS
 inchallah ya3mel haja w izid ikamel chi5awi waw hhhhh	POS
@@ -8157,7 +8157,7 @@ krima mabi baldi guernabou	NEG
 7adhar el bakou w jibelna attaquant ghoul w arriere gauche patron	POS
 wawwww very nice mariyouma llove you	POS
 enchallah rabi maake si slime	POS
-kouya madabina aktar wodo7 ranah maldo8ine Mel legdem nafess le klam galoh Marah lifatet gabes ma3adech ta7mal aktar men heka	NEG
+kouya madabina aktar wodo7 ranah maldo8ine mel legdem nafess le klam galoh marah lifatet gabes ma3adech ta7mal aktar men heka	NEG
 beb jdid	NEG
 khouya les hommes oui 3andek lha9 3awra oui	POS
 dhahir fiha 7aja 7louwaaaaa	POS
@@ -11272,7 +11272,7 @@ love good job	POS
 weld 3awatef arjel minek	NEG
 slim 5ouya 3metlek j aime 1000d 3al faza	POS
 nchllh joueuratna 4odwa ma y5aibounach hadha matchouwina yelzem nhezouh el coup w a7na m3akom el cha9an el fatr nchllh	POS
-ti hiya 3aicha française w bil jinnsiya winti t9olli aich tounsie Billéhi raj3ou rwéhkom w ihtarmou innés	NEG
+ti hiya 3aicha française w bil jinnsiya winti t9olli aich tounsie billéhi raj3ou rwéhkom w ihtarmou innés	NEG
 chaba ahlam	POS
 chkoun lina 9bal 1 million	POS
 5ir barcha mili chrekom bzok martou	NEG
@@ -13112,7 +13112,7 @@ mala ka mcha lahasa	NEG
 j ai voté pour slim mais chui déçu ki nasma3 3ta soutou lel beji je vais voter pour marzouki	POS
 ahawa le emalmeya	POS
 tehki 3a trafic we el 9alba ti enta akbar sara9 ya massa5	NEG
-ghayeth Mejbri hedhy gafsa chuuf	POS
+ghayeth mejbri hedhy gafsa chuuf	POS
 jdid el castro mawjoud 3andi fy chaine	POS
 boss mnawer	POS
 santori man3melhomch jaime	NEG
@@ -16474,7 +16474,7 @@ enfin kkinaa haja tosleh bravo	POS
 enchalah 3iidek mabroukkkkkk	POS
 amel tala ala jradou etnajjem taamel fiha projet touristique 20 km de hammamet 10 km de bouficha 15 km de enfidha docn etnajjem testa9be baaaarcha touristes rabi maaaak ya slouma	POS
 sbeh el5ire lel twaensa elkool	POS
-wallah shih nkamam fsgari wesgar geri kifa bech i3ichou nhar aker lhaja tzid felb3am b 4 marrat wmanfi9ouch baha wen machya leblad  Ma3ednach kaltin 3ala chai	NEG
+wallah shih nkamam fsgari wesgar geri kifa bech i3ichou nhar aker lhaja tzid felb3am b 4 marrat wmanfi9ouch baha wen machya leblad  ma3ednach kaltin 3ala chai	NEG
 rabbi issahil	POS
 w ahna chihemna x	NEU
 ma7lake nadhoula	POS
@@ -20351,7 +20351,7 @@ dégage ti ifhem rouhek 3ad	NEG
 chesmo el brnamej li y5dem bih	NEU
 la fin tounsi tounsi drapeau du tunisie w moslem watn chaab tunisie reguarde iraque suryia ect hamdou lehi	POS
 inti khawn ama ahna rjel w ma3 ca yakhrawlek fih ahna cha3b tounes	NEG
-smilah Haye maskouna bjini  hedi ilotof hhh	NEG
+smilah haye maskouna bjini  hedi ilotof hhh	NEG
 m5byak dirabk	NEG
 m3ana walla m3a nahdha tawwa	POS
 flastine akber men ra4ma mta3ek wint w jmhour lefri9i izouz tnef9ou fi b3athkom kan techrich taira	NEG
@@ -20980,7 +20980,7 @@ mala t7in	NEG
 8888888888888888 ken lzim nobsom b idi w se9i	POS
 sans commentaire l7assilou nasma3 fiha mel bera7 ltaw hhhhhhhhhhhhhh	POS
 chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage chômage	NEG
-3lech matemchich les elections parlementaires mte3 Franca Jarbou3a hedhi 3amila	NEG
+3lech matemchich les elections parlementaires mte3 franca jarbou3a hedhi 3amila	NEG
 ca la force trankil	POS
 3idek mabrok	POS
 t3ich ya si slim wet3ich elghalya ca	POS
@@ -21365,7 +21365,7 @@ bon courag w nchalla amelioration 3la 9rib mais brabbi yezzina ml 9asdewi w naft
 bravo slim riahi merci notre king wsalemli 3la sgharate anadi hhh thi9etna bkolha fik notre président	POS
 mala filim hhhhhhhhamm	NEG
 too much feelings keep it up	POS
-Brb barou er7ou	NEG
+brb barou er7ou	NEG
 allah yarhlah w ysabar ahlou	POS
 rabi maak ya m3allammmmmm	POS
 m3alem wild m3alem	POS
@@ -21492,7 +21492,7 @@ akahaw rabi issaberna	POS
 n3en diin zeby	NEG
 maaaaaallem nchallah mouafak	POS
 cho ma7la rasouu	POS
-Hhhhhh tounis imchit	POS
+hhhhhh tounis imchit	POS
 5ouna slim enti tfarej m en b3id 5alina raythinn	POS
 n7eb bledi benzart ema chkoun bech y5demha 9a3din ken mta3 darbdn louga	NEG
 ti chnéya y zebi fdha7tna waher rou7ek chwaya r mala mhantél y zebi t9oul 7med gidon	NEG
@@ -23033,7 +23033,7 @@ netsawer 3andha dakhel	NEG
 7erer cher3 bourgheba marzouki ramz tunis	POS
 bravo w nchalah yà rabi ynjah wena nchaj3ek w aman n es éli tinta9ed fiha ô moin hya 3amlt haja entouma ma3mltou chy yà 9oul klma tayba yà a3ti rayek ctt	POS
 3asbe lék w léha	NEG
-Hhhhhh mana3ref had	POS
+hhhhhh mana3ref had	POS
 zaza_show_ nchallh rabi yorz9ek men 5irou wibareklk fi sa7tek w3ayeltek wmalek	POS
 moch 3adeya top jenjoon	POS
 beautiful feminine and sexual	POS
@@ -23799,7 +23799,7 @@ chaba bzff wlh mal9it mangolk rabi yhfdk	POS
 soutien total lel hiwar bon courage	POS
 fehri1 rabbi ya7fthek lmartek wesgayyratek wallah d3it lrabbi baaarcha bech y5allas wa7lek 5atrek rajjel w3andek principe fi bled kothrou fiha ken el monef9in a7na lkolna el 7iwar tunsi	POS
 mala forma	POS
-Hhhhh mala bahil	NEG
+hhhhh mala bahil	NEG
 rabi m3ak énti wél hay2a mta3ék	POS
 ma3zk nemout 3alik	POS
 il kelb b gedeh min melyoun	NEG
@@ -29558,7 +29558,7 @@ hamdallah 3la slamtak	POS
 w nehar tejibou ya dj3fer ay teji bla khimar	NEG
 ta7che fih	NEG
 bravo si s riahi	POS
-Souma Khazri a5i chta3mly hne	NEG
+souma khazri a5i chta3mly hne	NEG
 bsar7a ya3tik il sa7a 5edma te7foun w film 3awito w choufit il choix il mawjedin il kol menkotherit m7abit netfarij fih ama fih 7eja berka m3ejbetnich il ena fil 7ajit il 5taritehom menloul maweslotnich bech net3ami9 brch fisa3 ma woufa w fibeli il howa film 9asir ama tmenit ykoun atwil menheka w fih a7deth akther a m3a hetha bravo sa7bi 3la 5edma w wasil	POS
 cha3eb traba 3la ydin sore9 mentalité merde	NEG
 rabi iberek fi kol chey fih khir lil bled wiizidek khir ala khir amin ya rabi	POS
@@ -33434,7 +33434,7 @@ nessma 9anet el bejji w michi 9anet l3ayla w ena m3ah w rani mkache5 w slim rabi
 jebt 10 fi 3oudh trjaja3 ro7ha mkabcha fi concours ye5i fibelha nhar twali tbiba et la belle vie bizarre	NEG
 8enya mezyna bercha	POS
 m3alem vive ca	POS
-samer Yahyaoui Adem Chouaibia   haw lm3alem hhhhhhhhhhh	POS
+samer yahyaoui adem chouaibia   haw lm3alem hhhhhhhhhhh	POS
 bajbouj raisouna	NEG
 pour le comment de med el hedi hadha klem mta3 7ossed 3ib illi t9oul fih	NEG
 paroles wadha3 fih tetsdam khayf tetrdm moush ena li n9oull 7a9 w kima ghiri netrdem ncharef tashkila w 7wom ebda3at bl kam drapeauwat nhez w ken lzaz khalana fl ham sara7 nahki tala3 habt dima khaydh 100 mn khotta fy rassi 3al 3waj 9albi faydh tayr wnty baydh mabroumk lena mayroll 3aysh fawdha ki baghded w moshkoltk tetsama 3andi 7al 7keytk 7wal shaba3 menniken 7alat mshni nawi n3ish rajl kifk b kamsha jamet lokza fy colon jamed w m3a rohk mat hanish l far9 bini w bink li 3andk maye3jbnish f9ir w n7eb n3ish yal 3abd esami3 baba moush bousbi3 w mshna besh net7asbou jmi3 ma3shnash bl talmi3 w makontsh stable matshoufnish passable w la kifhom nos5a jeutable taba3fih tansa5 w 9abl m3awnk fl sif domainy ro9ya shar3eya wnty tsarbi fl zfif king wmsh bl kif nkhali fi amjad w kank 3la rasi yarfa3 shika moush 3bad abyedh w naswer w nseb loudhen etarsha manishi zabour w n7awl mankounsh mnayk barsha dima raba7 barsha w 3ati 100 mn dars w takhra 3la rou7k kan tshouf zebi mkarz maksh ki booba bash tasna3 dimension 9otlk 7ama ghrab shkara w 7oka exonération mtrenin 3al les courants shoufni f rassi sh3andi non 3andk tube fl conscient 3andi tube fl subconscient manesh rs w 3eshna b 9darna m3a nes beli asina w 3anina dima n7arbou labes nik latra7 mta3 l kes 7atinekom fi akyes la7wem tshaja33fina w takrhouna maw labes barou foutou zebi khanekhdm aala rohi landakhl fik zebi weli kifk moush tomou7i kima dima blanz lou7i twati tnik rokba mazelt nomkhot khashmi ltawa kima drogba 7agar ki zlatan weld bled moush alman kberna b ne9mt fa9r wl hamdoullah moush ji3an 3asherna makhesrna daym rabi ya jaban wnty li t9al9el w tnasnes radhi b rotbt etta7an kan t7eb feya tseb wala tseb feya t7eb fi kol l 7alat bara walah ya3tik zeb wadha7 w mantslab ba3th l la9ab w matshoufnish 7zin kan ki manal9a win nsob mellet 7ab mn rapi testa3ml w ki nbattl mouzika 9olli enty shneya sh ta3mlmaksh kima l ma3ml temrj feya 3ib la abyedh la ak7el entouma la9sha khra fl slip t3alm 3ish taksir shouka m3aya ma yemshish shbikom kila7nesh bl jassan wl tashwish bl dazen wl ba9shish fi bled azgher mn 9arya ghodwa tetsdam ki tfi9 brou7k bi3a w sharya fi 3arka m3a nafsk 9oul l zebi sh mdakhelny klemn ma9oltoush 3lash 3lik sh t9awelni fih tahki 3al t7in wl wedhnik ghats fih matwalish bl rap rajl mata3refsh ey shbih stage l bourdgana bort w 3la rask bana nas trapi tiir wnty t3ayt 7ata ena mat7elsh mokhk b bhama maksh mta3 3arka nseb f barsha mnaykin fy no9tet t7in moshtarka raba7 barka w shaded l equilibre ki t9abl abou 3eyadh ghodwa t9abl justin bieber la formation la libre mardhk ma ndawilk wa9t yjik stagk taw tefhm li fih nahkilk fl saloum hez slipk moushna fard darja n manfarkessh dh har bash nhez bih darja ija ras w shouf l forja 3lash l klem 3lik 9ad ma tsebny tasghar lin ma3adsh nshouf fik fayt l ma9boul la9i l rbayet 7ouloul shayf li beyt ma9toul beki 3al meyt masboul 7aki meli 3eshtou toul moush kifk tla3t t9oul froukh tkames w tfatn b tbi3tou mahoush mas2iul b tbi3tou mahoush mkhalt deniytou bl ghalt nekna l shara3 ma tkhayelna kif etta7ana ma 9alet 9a3ed rou7ou jalt yada3i ma3refty yla9t fl klem w yefty lin ezzour ywali zlalet nes li ta3bouniml bera7 rabi yehdahom na3ref na7i rou7iw ma7ashtish sh na3ref dahom kan 3ali 7abou ydhorouni nektelhom waldehom fibelhomshi beli l la9ta keeka moush ena 7ashih m3ahom part ii manesh ndhonou ti tla3tou mat hanou kan jitta3rf l dhlam ya mnayk rak khoft menou ma93dana nestanou 3inikom li tashbah w mana3refsh n9ata3 mn kleb 3arbi tanba7 y7ebou zebi f9ir besh fy wejhi y9oulou rajl y7ebou zebi f9ir besh fi 9feya y9oulou moushni rajl w la fehom rajl wejh w 9fa 3ash y9is kan majesh yrapi sada9ni raw yekhdm boulis wa9t li tdhaya3 a3ref li sahebtk market rkeybkom berket ta7shelkom fl supermarket mazelna 3ayshin b barket nes li kabrouna meli 5la9na rjel besh 7womna yzabrouna tekhdb 3la nes raw ghrab yseb feya9adrk moush mn 9adri slougi moush lazmou sadreya fy rassi 200 9adheya 7esdouni f shitani w ma9aloush tbarkallah 3laya 7oumtk y7ebou feya wnty erkhis sakr akl baffle 3adi njik ml brise m3adi 3lik l analyse maksh mta3 7arb rab7k fl torbeya w fy 9elt l torbya 3andi 9ana3aty w ma n3azemsh 3al shma3 n7asb fik 3al neya ki tjini f mendef tma3 9awa3edna tetba3 meli kona rbaat nkhayr jacjy chan 3la brucelee fy kaseet nkhayr l farziit 3la l hedi 7abouba enty tkharj fy tzaryit lena mawadhi3 rbouba bahdhek n3adi fi 3ou9ouba wl ta7ana yakrhouna b n9ob khrahom7abou m3a rjel ydawnouna jaw besh yabahrouna l9aw rwe7hom monbahrin jew besh yajahrouna yekhi raj3ou ma3meyin 7abou ya7grouna 3ashou m3ana ma7gourin7abou ya7srouna ta7anet l shayatin 3aysht b shi3ark ki 7ayatk ki 7ayeti ama maksh deri li aghlatk moush ki ghlati yab9a e bihari s3ib 9adou 9ad ma2seti w ma2seti fy akher 7al9a fy jort tafah nwaret ki twati ma3shtsh faj3ati li kifk ma yafja3nish rojla s3iba 3lik w mas helha ta7an t3ish na3ref m3a shkoun n3ishw 9adri moush ki kelmtk t3ish f rasi lahdha tnik shalbou9 f west 7elmtk 79i9tk ki termtk b tbi3tk khawef fy lo3bt l khayal tla3t a3ma moush shawaf t7eb terba7 bl aktef w ena na3ref ken nerba7 fik ennani wnty tanba7 jil tayr bikom w jil 7ayr fikom wenja jit ml jil li 7ashih li dayr bikom shtayr lakom w a3tini entiba3k wahd ml 0 njib l 39 mte3k madem moush ji3an a3ref rani manashba3sh makfarsh soulayman klem shwatn manasma3sh mata3resh stage l 3in mata3resh stage ena3sh stage l bakyablesh dmou3 khalatny manetfja3sh nemshi ma narja3sh 3adhmaf zit l ghorba nali rap maadsh ini kan fama f kharja nasa9li ghayr 9abl lel ta7tim dima mlaghem 7a9li nahbt fy 3a9li nezrb w natla3 nezrb fy 3a9li paiii mjewb sou2aleti li fi sallet mouhmaletou n improvizi lin mokhi yelsa9 fy skulletou khser 7yetou yseb sh besh na3mellou r5is l 9ima faragh ma yetraba beli tdhellou mastanitsh j aime na3ref shneya khalit watit b azber klem l rou7i lena tmazit sh mhaz zebi lel 7ajam lahi nnafdh fy ta5tit lahi nshaya7 fy a9lem w 3la nes ma 3assit tafra7 wahd kifi ma7leh fl rap w f denya wnty matshabahesh l rapk la tshabah lel denya lem d3ak adhika l denya t7eb tben la3eb niitek fy 3inik w msh mzeya 3lik nestaj3eb ma3andish carriere basem fik 3andy parcoure moush kifk ma nafra7 kan ki nsebk fy titre zabour mgata3 l tombour w mta3b eli raskou w nik 100 mn om li mbales fl disco tahkili 3al rojla ta7shelk faha retart w kan 3andk mnha bzeyed anfa3 rou7k walla l dar bara rabi shwaya sghar khir meli 3lik net9adha n3ishou 3adha 3adha w li kifk 3amloulna l 3ar ta7an fl nes yta7n w miboun fl nes ywabn kefr fl nes ykafr w jaben fl nes yjaben w mba3d 3rk med l war9a fy classeurk hez kamoustk b3id khatr na3ref déclancheurk ya3tik dé 3la couleurk w matnajmsh tfoutny 7ashih l barsha f wehed ki tal9any mfages shoutni t3ishou 3ara9il w ltawa mal9aw 3youbna faraghlou thneya khir may3afs zboubna nes khayfa w nes mjoubna mena3 mn bouushousha li khobza m3ah te9sm yemshi fibelou 3andk kousha 9abl 100 mn kartousha w raba7hom b nafkha li ttir l naf7a nab9a ghrab ytiir moush n3ousha kifk kl 3alousha tal3ank ki hboutk nejblk mabin 3inik sbab l 7aba li f dhaboutk be9i man7ebsh nshoutk nostra damos wnti t9oul 7sin l sherni bl 7wel torbt fy khyoutk bara ejri fy auto rootk shouf omk 7atemha wel bled mshny fahemha 3arka 3alli besh yo7komha yal miboun ya weld l 9a7ba wenty lawj shkoun yorshomha nes n7ashemha bheym nbashemha tansa mnin l source fl ghram maghtoussa 5shamha bhim w ne9sk dhil maksh 9abil w habil ghrab nwari fik w met3adi 3abr sabil kima bill fl green mill jeyk mn domar n3alm fik ta5tar moush meli madouhoulk ta5tar ma3andish man5abi w man3ishish kl hippy ana kbiri rabi wnty tla3t kbirk zebi shitani moushou mt5abi 7yela manmaressh kif t7eb ta7shihouli w tefshel fi naje7i matkarezsh tnik ma3ya nhar t3ish habt mn ascenceur n3ish wahdi l nhar l shedda m5abi secteur birani parteur kima eddy meurphi zid 3andi fy lseni kima fy se9in srarfi tab9a l neyek omnitou yshoufny mounek akher tomou7ati ya3jb l la97ab blek ta7ki 3al rojla 7ashek kifi maksh beyn 3esht l shera3 b tmarmidou w 3esht l bar wl punchline 3esht 7zin mkarz fine wnty hak tshouf t3ish lesa9 khatr khari 3la rou7k ml khouf ta2lif 7ourouf w n7otlk fibelk awl ma takrahny tal9a rou7k meta7shelk lin nmout nselk w 7keyti mkhaledha bini w bin rabi shriki feha rou7 fy blaset ha nzid nbaset ha lennes l karkara w lo3bt l letiba maw ta3ref lazemha 7zara matoufa la3amara madem sadi9oun madem ma ta3refsh asli ken lkorh lemimoun froukh t5oun w nez9 3aysh funny ken li fou9i ysema7 mafamesh l moush bel3ani t3ish adhika nitk fy 7aja mahish mte3k blesh flousk shritk 9asitk 3ala9t dhra3k 3alitk shouf ertifa3k khalitk beya3 zenbe3k dhalitk nal9ak ta7an t7eb tboul 3la na3ne3k t7eb lmousewet nseb wlad w bnet nes bnet w nes 3allet w nes d3a l shar 5dhet matghadhini l houtafat ostoura ml afique king w maw fibelk meli wsolt sbaght 3lik bahdheya mayjik mademou 9ad bhemtkom shneya mahamtkom 3ara9il ma lametkom tafasil ma khaletkom tefhmou b tandhim w li nkhalih dhkey narja3lou nal9ah bhim t3adi hyetk tahshii fih tlawj 3ali mahshi fih nik100 mn omou l rap 9odem eli na7kifih tfadhl akhra fih ama enty khfif w kan nti7 lel sorce w nchedk enty w sahbetk bl kif mataya7tesh l serwel ama serweli taya7 ray fy 9alb kawel n3adheb fy sharaya7 zay nal3b ma tkateltsh enty 9albk sheya7 lamou b3adh hom ma reb7oush 7ataki dollari taya7 nes tfok feya 7ata meni nfok ro7i ghir e7sbny mnayk ml ak7el kanadhf ro7i n3ish m3akommoush tomou7i a7lemi ba3ida mshargi nestana fy fas9a w tal9a bin l 3in jdida 3andou mdida lklem yet9lb 5esrou 100 mn rajl kesbou 7amalet la7tab el b3id 9rob weli krahni wala y7eb weliken y7ebni maw zed akther 7ab na3ref fesh n9oul w yedo moush l ma tjamed manishi rassoul w majitsh fl dhanb nlamd feyt l ma9boul w net7awl l 3azra2il majitsh mn esra2il w my real name mouhamed	NEG
@@ -33928,7 +33928,7 @@ bravo et bonne continuation al 9afila tassir wal kilabou tanbahouuuuuuu	POS
 o5rejjj nayek	NEG
 elfakir w dholim waldou elhiked w elkarahia w zid la nature	NEG
 bi absat jihaz 3adi yomken laka atta3arouf 3ala al 9ham lakin al mouchkla fil 3ou9oul wal kafa2at zero et presque nul hathi hiya 7keyet lim3aref fi balhoum 3assa fil trig hatha ismou irhab	POS
-chabab tabarka Allah 	POS
+chabab tabarka allah 	POS
 ya lotfi ya3tik sahha kifeh wassa3t belek fil émission	POS
 a3mel ili trah sal7 bjam3ia si slim	POS
 big boss rayes ria7i	POS
@@ -37755,7 +37755,7 @@ allah yar7mek ya lass3ed	POS
 taw chyda5l slim ry7i y7eb ywli rais besif wla houa rais jam3ia hhhhhhh y7eb yasba7 rais jmla mela 3abed	NEG
 5etta hou zed 3la mawassouh	NEG
 ken wahed mahouch metadeb maykoun ken samir el kharia	NEG
-Les deux belles femmes	POS
+les deux belles femmes	POS
 rabi yahyik lamtalau y a ma3alim	POS
 boutoulet ejbour walet hhhh	NEG
 biraby sakker fommek	NEG
@@ -38509,7 +38509,7 @@ inchallah marbouha ya si slim	POS
 3aycho im3alllem	POS
 y a kahbat al imarat	NEG
 dégage forza ca	NEG
-Ramou LA nemchiw	POS
+ramou la nemchiw	POS
 5taret bech thahi brouhek bech hata had ma y9oul 3lik enti ma3endekchi kelma ena kol youm nzid nhebek akther khaoula je t aime beaucoup chéri	POS
 rabbi y3inek w netmanna nchoufou kol rijal ala3mal fi tunis ymchiou fi nafs attarik win ajl in9adh liblad	POS
 alh ir7mo	POS
@@ -40190,7 +40190,7 @@ mdr o cha3eb chnowa reb7o mel la7kéya hédhi biléh i	NEG
 9teltouna lyoum j espère tkoun la saison 5 ze3ma prison break	NEG
 ani kif sma3et bi 7kayet rahma mataba3thach li79i9a mais kif jabouha fi les 4 vérité rit hadhi najia jani i7ses ghrib dhohretli bizzar kifeh tofla ta7dhr 3ala tofla ma9toula wdamha bared lidarja haki à mon avis kifeh saret li7kaya rahma kif mraw7a 3a9bouha jma3a hadhom whazouha whoya bi 7okem ta3rafhom tal3et m3ahom haka 3leh mafama 7ad la7edh 7aja cv pas wmba3ed kif 7abou ilaw7ouha mchat chafet liblayes ili mafihomech des caméras bech tlawa7ha wnhar ili hiya 3arfa ini bech tal9a nadet ayman comme quoi hana houwa m3aha w ayman ma3andouch 3ala9a wlbanai najia khalatou yo9rob lil blasa haki bech yal9aha houwa whana comme quoi chahdin m3aha hiya t3amdet bech 7ad houwa ili ifi9 bil jotha wrabi idhaher l7a9nchalah	POS
 ma7leha mousaique bsara7a dima tzahina bonne continuation walid je t encourage	POS
-Hhhh ok 	POS
+hhhh ok 	POS
 hmdl 3la slemtek samy	POS
 kifeh khormologia sadeen 4 hhhhhhhhhhh	POS
 akberrrr 9ahbbbaaaa	NEG
@@ -44180,7 +44180,7 @@ hhhhhhhhhhhh we chkoune yahki 3ad rab3a el 3adawia hhhhhh	NEG
 nchalla rabi m3ak w yonssrek 3lihom	POS
 ataw ichoudoulk minou	NEG
 la illaha ila allah la haoula wa kowata ila bi allah	NEG
-A7na wini tsawerna?	POS
+a7na wini tsawerna?	POS
 mabrouk ca mabrouk l a9wa jam3ia w l a9wa c	POS
 saadi officiel hhhhhhhh hhhh	POS
 lil nhar sanfour 5hok mn algerian	POS
@@ -44307,7 +44307,7 @@ bravo wallh	POS
 enchallah 3af 2020 thazzou elbotola	POS
 ettounsseya walét libeya	NEG
 ma7lekoumm rabii ykhalikoumm l baadhkoumm nchlhh	POS
-kalitouna tewansa entom Ken bitaka tahrif ahmelou formatage kir wa argehou gebal 1956	NEG
+kalitouna tewansa entom ken bitaka tahrif ahmelou formatage kir wa argehou gebal 1956	NEG
 wa3laiich ma yemchiich le wasat wel janoub	NEG
 enchalla m3ah alex wtwali le club 7keya o5ra	POS
 3idakom mabrouk	POS
@@ -46204,7 +46204,7 @@ jm po ctt chanson	NEG
 men simet tunsi weld rbat la kn chef wa7ed 3indo el flous iwali isaba7 3lih w imassi famech m i9acher w la fam la mabda la hom ya7zanoun nharet yefles slim riya7i taw i9olo flous 7ram 9alha ibn 5oldoun idha 7alalt b ifri9ia kamloha intem ahlo maka adra b chi3abiha	NEG
 ça c est pas la liberté d expression	NEG
 allah yahyeik ya m3allam	POS
-bittawfi9 Olfette	POS
+bittawfi9 olfette	POS
 bras omek ya selim jebelina wissem fabrise anis alxis darman traoure	POS
 kol 3ama wanti 1000 khir	POS
 bsara7a min afdhel i joeurette fares souai	POS
@@ -46928,7 +46928,7 @@ allah yar7mo w y ar7em jmei3 el moamnin	POS
 brabi ach 3amelt fi carthage ciment rahi ta3betni	POS
 are you serious o o	NEG
 rak r2is dawla 3andek barcha	POS
-banzat Rabi ya7mik	POS
+banzat rabi ya7mik	POS
 aucune importance	NEG
 si slim bjeh raaabi degage degage degage enti benzartiii itfihhhhhhhhhhhh 3likom ya kleb	NEG
 allah 8aleb mr slim wlhi kolna tmanina tkoun enti le président ama pa grav nchllh l mara jeya w rana dima m3ak	POS
@@ -48542,7 +48542,7 @@ hhhhhhhhhhhhhhhh tztm	NEU
 libia 9altlkom 5atih w entouma chedin erajel ken tlehitou fi7ajet o5ra 5ir	NEG
 mch lezem tebki bch tssadkha dhaharli	NEG
 bara mak5bha	NEG
-page sponsorisée 3ich tunisi achete tous Ma tkounouch bayou3a	NEG
+page sponsorisée 3ich tunisi achete tous ma tkounouch bayou3a	NEG
 chnowa hedha ya mta3 7ou9ou9 el insen hedhi mabed2ek w hedhi kelmtek ya jerdh tfiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiih	NEG
 hifcha hifcha yesir yesir hifcha	NEG
 rabbi yéchfiiiih	POS

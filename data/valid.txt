@@ -926,7 +926,7 @@ m3alim slouma w wraak rjaal mat5afech mil 9irouda	POS
 bravo 3lihom ili wa9fouha ma 5ala ma 7ka bara tawa 3adi tatla3chi wild bint rouk	POS
 hatha si elbaji 9aide esipsi galbou dine omaa min 7okomaa	NEG
 haythem hhh	NEU
-Chnoa matloub mn tounsy ena marra kalmtouni w7kito m3aya bch netlha bmenta9ty	POS
+chnoa matloub mn tounsy ena marra kalmtouni w7kito m3aya bch netlha bmenta9ty	POS
 plutot slim riahi 3a9léyaa mech lifri9	POS
 m3alem ya si slim na8rine minna	POS
 a3rf 7aja nes ili tbandarlek 3la 5atr ca ils se fut 5rajt minha taw ta3rf l79i9a	NEG
@@ -4191,7 +4191,7 @@ nemtana3 3la taswiit et apres tsawet fi blasti 3bed o5ra la non no nein	NEG
 lak ra7em ye 3emi mou tech7at ye benıadem ye monir heda fb mou lech7atta	NEG
 kol 3am w enti hay b 1000 5ir	POS
 ya 9ahba yaatik aasba ya 9ahba yaatik aasba	NEG
-beheyem wbheyem wwbheeeeyem. Kalo 3ich tounssi hhhhhh bara nan zok omkom nektouna	NEG
+beheyem wbheyem wwbheeeeyem. kalo 3ich tounssi hhhhhh bara nan zok omkom nektouna	NEG
 super belle	POS
 alf alf mabrouuuuuuuuuk	POS
 3sus mibwn	NEG
@@ -7998,7 +7998,7 @@ cha3b m3ak slouma	POS
 kol am wenti hay bkhir welfriki fi ettali3a	POS
 madmk 8anit m3a lmnayk hethaa sayee alik	NEG
 wa7dou wa7dou ya m3athebhom	POS
-hya bahi ou moins fama wahda boulehmi hhh Kawther Amouna	POS
+hya bahi ou moins fama wahda boulehmi hhh kawther amouna	POS
 jabou rajil wijhou imghaty ou kalou chadinah ifhim ya li tifhim kithbou kithba ou sadkouha mouch kalou rajil a3mal ya3mil fi issiyassa min ijma3it il makhlou3 houwa a3mal il 3amaliya im3a atraf ajnabiya ou tawa walat issalafiya koul chay fy il islam roudou balkoum	NEG
 sa7a klay ya 4owlee	POS
 brabi jmé3t el 5athira rahom fil ham	NEG
@@ -9097,7 +9097,7 @@ enchlh rabi ma3ke slim w enchlh rabi yewf9ek	POS
 m3lim ya 7asoun mnawer isaghron bmaryoul ijam3iya	POS
 wissem kammoun belehi a3mali aboone 5oya l8li	POS
 3omra magboula	POS
-b3aththom il mosaïque w hiwar tn Hatta had ma3mal réaction Rabi yechfih nch allah	POS
+b3aththom il mosaïque w hiwar tn hatta had ma3mal réaction rabi yechfih nch allah	POS
 krima mamy baldi hhhhhh	NEG
 belehi eli y3arkoun feha aal hijab aala ases tarf l9mech eli kenet hatetha aala rasha w ch3arha aala bara ytsama hijab hh	NEG
 twa barek 7assit syedtek	POS
@@ -12151,7 +12151,7 @@ normalement eli 3ando abonnement yji yechri teskra mouch ye5dho ken eli mso7bine
 yazebiiii fkn banger mouch normal	POS
 ansa bech tkoun ra2is li anou sahel we sfax wel 3asma me yentaboukich	NEG
 lkolha tehchi fih meleker	NEG
-rake Beche tousel wasele Hana dima me3ake	POS
+rake beche tousel wasele hana dima me3ake	POS
 ma7leeeeeehom ma7leeeeehom	POS
 inguidh rouhek khirlek	POS
 vous êtes un homme d honneur mr slim riahi ama na farhti kif lefri9i thez championnat a9wa melbac	POS
@@ -15751,7 +15751,7 @@ allah yehmik hammadi mabrouk mednin chemliya	POS
 touns mchat tnayk men joret hal ma9heb	NEG
 chtar libled mahich monta5ba welkolhm kif b3adhhom	POS
 cute machalleh	POS
-Bravo wlh mahleeHa béja w ma7lèna ki nabdew actif fi blédna nshlh dima heka	POS
+bravo wlh mahleeha béja w ma7lèna ki nabdew actif fi blédna nshlh dima heka	POS
 raja irtika bi mostaoi hioir	NEG
 encha allah echa3b ettounsi ya3i mada 9imtek	POS
 sfiiiiiih w kathib na3el bouk w bou waldek	NEG
@@ -19473,7 +19473,7 @@ to9tol bl mahlek	POS
 dima met al9a	POS
 tfooo ca	NEG
 ya si slim	POS
-bech enfase5kom kima El hiwar 3omala françaises	NEG
+bech enfase5kom kima el hiwar 3omala françaises	NEG
 bravooo dear slim riahi	POS
 tounes bi5ayr	POS
 good one	POS
