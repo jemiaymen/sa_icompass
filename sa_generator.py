@@ -74,6 +74,7 @@ class SentimentAnalysis(datasets.GeneratorBasedBuilder):
                     "label": datasets.features.ClassLabel(
                         names=[
                             'NEG',  # Negatif Sentiment
+                            'NEU',  # Neutre Sentiment
                             'POS',  # Positif Sentiment
                         ]
                     ),
